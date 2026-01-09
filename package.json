@@ -1,0 +1,35 @@
+{
+  "name": "final_run",
+  "author": "atomlabor.de",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "pebble-clay": "^1.0.3"
+  },
+  "pebble": {
+    "displayName": "Final Run",
+    "uuid": "28d4164a-9d5a-473a-a4c7-091169b1d393",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": ["aplite", "basalt", "chalk", "diorite"],
+    "watchapp": { "watchface": false },
+    "capabilities": ["location", "configurable"],
+    "messageKeys": {
+      "id_data": 0,
+      "id_path_data": 1,
+      "id_button": 3,
+      "id_vibe": 4,
+      "CONFIG_TARGET_NAME": 10,
+      "CONFIG_TARGET_LAT": 11,
+      "CONFIG_TARGET_LON": 12
+    },
+    "projectType": "native",
+    "resources": { "media": [{
+                    "file": "images/final_run_icon.png",
+                    "menuIcon": true,
+                    "name": "IMG_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }] }
+  }
+}
