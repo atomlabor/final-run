@@ -87,11 +87,11 @@ Launch the Final Run app on your Pebble Steel. The app automatically retrieves y
 
 ## 🦁 Unterstützer & Community | Support & Community
 
-Diese App wurde entwickelt durch [**atomlabor.de**](https://atomlabor.de) - Eine Plattform für spezialisierte Pebble-Apps und Smartwatch-Entwicklung.
+Diese App wurde entwickelt von [**atomlabor.de**](https://atomlabor.de) - Ein Lifestyle Blog.
 
 Teilnehmer der **Pebble Community** sind herzlich eingeladen, Issues zu melden, Features zu suggerieren oder zum Projekt beizutragen.
 
-This app was developed by [**atomlabor.de**](https://atomlabor.de) - A platform for specialized Pebble apps and smartwatch development.
+This app was developed by [**atomlabor.de**](https://atomlabor.de) - A German lifestyle blog.
 
 Members of the **Pebble Community** are welcome to report issues, suggest features, or contribute to the project.
 
