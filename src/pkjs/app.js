@@ -108,8 +108,6 @@ navigator.geolocation.watchPosition(function(pos) {
 
   var msg = { 'id_data': status + lastDisplayText, 'id_path_data': pathBytes };
 
-  // STABILERE ZIELERKENNUNG:
-  // Wir nutzen 0.07 (70 Meter) als Puffer für GPS-Schwankungen
   if (distToTarget < 0.07 && !hasArrived) { 
     msg.id_vibe = 1; 
     hasArrived = true; 
